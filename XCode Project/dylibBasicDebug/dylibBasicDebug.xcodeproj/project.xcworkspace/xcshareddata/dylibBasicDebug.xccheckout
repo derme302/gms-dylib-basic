@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61BB3D9C-3630-478F-8409-34F0C2F81064</string>
+	<key>IDESourceControlProjectName</key>
+	<string>dylibBasicDebug</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2E51397A-4B7E-4BEE-BF5F-EDD500FF491C</key>
+		<string>https://github.com/derme302/gmf.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>C Library/dylibBasicDebug/dylibBasicDebug.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2E51397A-4B7E-4BEE-BF5F-EDD500FF491C</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/derme302/gmf.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2E51397A-4B7E-4BEE-BF5F-EDD500FF491C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2E51397A-4B7E-4BEE-BF5F-EDD500FF491C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gmf</string>
+		</dict>
+	</array>
+</dict>
+</plist>
