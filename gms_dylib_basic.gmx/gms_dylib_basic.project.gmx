@@ -4,7 +4,7 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions>
-    <extension index="0">extensions\dylib</extension>
+    <extension index="0">extensions\dyLib</extension>
   </NewExtensions>
   <sounds name="sound"/>
   <sprites name="sprites"/>
@@ -17,8 +17,8 @@
     <room>rooms\rm_main</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41830.4208216204</constant>
-    <constant name="GM_version">'1.0.1'</constant>
+    <constant name="GM_build_date">41831.0737021991</constant>
+    <constant name="GM_version">'1.0.2'</constant>
   </constants>
   <help>
     <rtf>help.rtf</rtf>

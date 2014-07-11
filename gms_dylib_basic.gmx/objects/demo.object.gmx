@@ -28,7 +28,7 @@
             <string>///Display dylib results
 show_message_async("Click!");
 var num = 0;
-num = addFunction(6,2); // Call dylib
+num = addNum(6,2); // Call dylib
 show_message_async("Num " + string(num)); // Show result
 </string>
           </argument>
