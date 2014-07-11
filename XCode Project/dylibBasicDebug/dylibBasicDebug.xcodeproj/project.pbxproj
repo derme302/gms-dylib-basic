@@ -7,12 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		81EE99ED18FE31C300D65505 /* dylibBasicDebug.c in Sources */ = {isa = PBXBuildFile; fileRef = 81EE99EC18FE31C300D65505 /* dylibBasicDebug.c */; };
+		816D1E39196F72A40006AD98 /* helloWorld.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 816D1E37196F72A40006AD98 /* helloWorld.cpp */; };
+		816D1E3A196F72A40006AD98 /* helloWorld.h in Headers */ = {isa = PBXBuildFile; fileRef = 816D1E38196F72A40006AD98 /* helloWorld.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		816D1E37196F72A40006AD98 /* helloWorld.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = helloWorld.cpp; sourceTree = "<group>"; };
+		816D1E38196F72A40006AD98 /* helloWorld.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = helloWorld.h; sourceTree = "<group>"; };
 		81EE99E518FE319D00D65505 /* libdylibBasicDebug.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libdylibBasicDebug.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
-		81EE99EC18FE31C300D65505 /* dylibBasicDebug.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = dylibBasicDebug.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,7 +31,8 @@
 		81EE99DC18FE319D00D65505 = {
 			isa = PBXGroup;
 			children = (
-				81EE99EC18FE31C300D65505 /* dylibBasicDebug.c */,
+				816D1E37196F72A40006AD98 /* helloWorld.cpp */,
+				816D1E38196F72A40006AD98 /* helloWorld.h */,
 				81EE99E618FE319D00D65505 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,6 +52,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				816D1E3A196F72A40006AD98 /* helloWorld.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -103,7 +107,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				81EE99ED18FE31C300D65505 /* dylibBasicDebug.c in Sources */,
+				816D1E39196F72A40006AD98 /* helloWorld.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -215,6 +219,7 @@
 				81EE99EB18FE319D00D65505 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

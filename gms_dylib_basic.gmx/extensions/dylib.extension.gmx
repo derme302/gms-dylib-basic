@@ -3,11 +3,13 @@
   <name>dylib</name>
   <version>1.0.0</version>
   <packageID></packageID>
-  <author>derme</author>
+  <author>Frostcube</author>
   <date>18/04/14</date>
   <license>Free to use, also for commercial games.</license>
   <description></description>
   <helpfile></helpfile>
+  <androidProps>-1</androidProps>
+  <iosProps>-1</iosProps>
   <installdir></installdir>
   <classname></classname>
   <androidclassname></androidclassname>
