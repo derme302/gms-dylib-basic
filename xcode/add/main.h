@@ -13,6 +13,6 @@
 
 #endif /* defined(__add__main__) */
 
-namespace mainLib {
-    double addNum(double num1, double num2);
-}
+//namespace mainLib {
+//    double addNum(double num1, double num2);
+//}

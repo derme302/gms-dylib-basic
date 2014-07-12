@@ -37,7 +37,7 @@
       <functions>
         <function>
           <name>addNum</name>
-          <externalName>addNum</externalName>
+          <externalName>mainLib_addNum</externalName>
           <kind>11</kind>
           <help>addNum(num1,num2)</help>
           <returnType>2</returnType>

@@ -8,7 +8,16 @@
 
 #include "main.h"
 
+#if !defined( _MSC_VER)
+#define EXPORTED_FN __attribute__((visibility("default")))
+#else
+#define EXPORTED_FN __declspec(dllexport)
+#endif
 
-double mainLib::addNum(double num1, double num2) {
+extern "C" {
+
+EXPORTED_FN double mainLib_addNum(double num1, double num2) {
     return (num1 + num2);
+} // end mainLib_addNum
+
 }
