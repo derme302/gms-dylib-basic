@@ -28,7 +28,7 @@
             <string>///Test DyLib
 show_message_async("Click!");
 
-var n = addNum(2, 6);
+var n = mainLib_addNum(2, 6);
 show_message_async("Number is... " + string(n));
 </string>
           </argument>
